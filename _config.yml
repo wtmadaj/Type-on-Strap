@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/blog"
 url: "https://www.wiskytango.com"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -9,7 +9,7 @@ avatar: assets/img/WiskyTango-icon.png                         # Empty for no av
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: How to Launch a Website - a Blogumentary  # Change Blog header text
+header_text: How to Launch a Website (A Blogumentary)  # Change Blog header text
 header_feature_image: assets/img/header/james-harrison.jpg
 header_feature_image_responsive: true
 footer_text: >

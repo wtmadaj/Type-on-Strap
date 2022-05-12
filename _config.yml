@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://blog.wiskytango.com"
+url: "https://www.wiskytango.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: WiskyTango                                       # site's title

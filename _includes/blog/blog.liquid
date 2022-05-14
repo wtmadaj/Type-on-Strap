@@ -6,7 +6,7 @@
     <div class="post-teaser">
         {% if post.thumbnail %}
         <div class="post-img">
-            <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
+            <a aria-label="{{ post.title }}" href="{{ post.url | prepend: site.baseurl | prepend: site.url | relative_url }}">
                 <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
             </a>
         </div>

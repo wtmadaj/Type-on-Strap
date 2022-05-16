@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [WiskyTango]
+tags: [About Me]
 ---
 ## What is this blog?
 This blog's purpose is to help explain and document things as I work on them. One hope is that it will help other 
@@ -18,7 +18,7 @@ Let's build some great stuff.
 
 
 ## Who am I?
-I'm a Java software engineer by day, but my real passion is the pure creation web development. 
+I'm a Java software engineer by day, but my real passion is the pure creation of web development. 
 
 My dream is to design and build websites. To build and design whatever I choose. But dreams don't become reality without action. 
 So this blog is the beginning.

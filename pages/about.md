@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [WiskyTango]
+tags: [About Me]
 ---
 ## What is this blog?
 This blog's purpose is to help explain and document things as I work on them. One hope is that it will help other 

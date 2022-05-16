@@ -18,7 +18,7 @@ Let's build some great stuff.
 
 
 ## Who am I?
-I'm a Java software engineer by day, but my real passion is the pure creation web development. 
+I'm a Java software engineer by day, but my real passion is the pure creation of web development. 
 
 My dream is to design and build websites. To build and design whatever I choose. But dreams don't become reality without action. 
 So this blog is the beginning.
